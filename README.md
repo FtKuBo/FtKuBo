@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipy060&label=Profile%20views&color=0e75b6&style=plastic&abbreviated=true" alt="FtKuBo" /> </p>
 
 ## Hello I am Mehdi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-Description ...
+#### _A 2nd-year Software Engineering Student at UO_ | _Running > Learning > Coding > Tennis_
 
 ## My Tech Stack
 
