@@ -2,9 +2,9 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhlOHJqaWQ1cml0Yjl4bWF6YjdxMXZ0cGxpcDUwNnFiOHhlZW9vNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100"/>
 <div id = "links" align="center>
   
-  [![](https://img.shields.io/badge/-linkedin-%23000000?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mehdi-semmar-946a1b27b)
-  [![](https://img.shields.io/badge/-codewars-%23000000?style=flat-square&logo=codewars)](https://www.codewars.com/users/FtKuBo)
-  [![](https://img.shields.io/badge/-leetcode-%23000000?style=flat-square&logo=leetcode)](https://leetcode.com/u/FtKuBo/)
+[![](https://img.shields.io/badge/-linkedin-%23000000?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mehdi-semmar-946a1b27b)
+[![](https://img.shields.io/badge/-codewars-%23000000?style=flat-square&logo=codewars)](https://www.codewars.com/users/FtKuBo)
+[![](https://img.shields.io/badge/-leetcode-%23000000?style=flat-square&logo=leetcode)](https://leetcode.com/u/FtKuBo/)
 
 </div>
 </div>
