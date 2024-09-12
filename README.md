@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhlOHJqaWQ1cml0Yjl4bWF6YjdxMXZ0cGxpcDUwNnFiOHhlZW9vNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100"/>
-<div id = "links" align="center>
+  
+### Connect with me !
+  <div id = "links" align="center">
   
 [![](https://img.shields.io/badge/-linkedin-%23000000?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mehdi-semmar-946a1b27b)
 [![](https://img.shields.io/badge/-codewars-%23000000?style=flat-square&logo=codewars)](https://www.codewars.com/users/FtKuBo)
@@ -8,6 +10,7 @@
 
 </div>
 </div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipy060&label=Profile%20views&color=0e75b6&style=plastic&abbreviated=true" alt="FtKuBo" /> </p>
 
 ## Hello I am Mehdi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
