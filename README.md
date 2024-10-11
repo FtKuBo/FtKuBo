@@ -33,6 +33,9 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Express](https://img.shields.io/badge/-Express-%23282C34?style=flat-square&logo=express)
+![GraphQL](https://img.shields.io/badge/-GraphQL-%23282C34?style=flat-square&logo=graphql)
+![Pytorch](https://img.shields.io/badge/-Pytorch-%23282C34?style=flat-square&logo=pytorch)
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
