@@ -18,32 +18,41 @@
 
 ## My Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-%2314354C?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logo)
+![Python](https://img.shields.io/badge/-Python-%2314354C?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/--%2300599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c++)
+![C](https://img.shields.io/badge/-C-%2300599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-%2300599C?style=flat-square&logo=lua&logoColor=white)
 ![NASM](https://img.shields.io/badge/-NASM-%2300599C?style=flat-square&logo=asm&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white)
+![4js](https://img.shields.io/badge/-4js-%23FFCE5A?style=flat-square&logo=4js&logoColor=000000)
 ![SQL](https://img.shields.io/badge/-SQL-%234169E1?style=flat-square&logo=sql&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/-VB.NET-%235C2D91?style=flat-square&logo=dotnet&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-%234EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Express](https://img.shields.io/badge/-Express-%23282C34?style=flat-square&logo=express)
-![GraphQL](https://img.shields.io/badge/-GraphQL-%23282C34?style=flat-square&logo=graphql)
-![Pytorch](https://img.shields.io/badge/-Pytorch-%23282C34?style=flat-square&logo=pytorch)
+![Django](https://img.shields.io/badge/-Django-%23282C34?style=flat-square&logo=django&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-%23282C34?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%23282C34?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![GraphQL](https://img.shields.io/badge/-GraphQL-%23282C34?style=flat-square&logo=graphql&logoColor=E10098)
+![PyTorch](https://img.shields.io/badge/-PyTorch-%23282C34?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23282C34?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 
 ## My Stats
 
