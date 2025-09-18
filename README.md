@@ -14,8 +14,6 @@
 
 <br>
 
-# Tech Stack
-
 <div align="center">
 <table>
 <thead>
@@ -108,9 +106,7 @@
 
 <br>
 
-# System Stats
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FtKuBo&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=0D1117&card_width=350" />
 
