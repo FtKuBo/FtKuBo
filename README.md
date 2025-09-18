@@ -107,13 +107,11 @@
 
 <br>
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FtKuBo&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=0D1117&card_width=350" />
-
   <img src="http://github-readme-streak-stats.herokuapp.com?user=FtKuBo&theme=dark&background=0D1117&hide_border=true" />
-
 </div>
+
 
 <br>
 
