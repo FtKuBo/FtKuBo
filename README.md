@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./luffy_gif.gif" width="1000"/>
+  <img src="./luffy_gif.gif" width="1000" height="400"/>
 
 ```console
 ╔════════════════════════════════════════════════╗
@@ -14,7 +14,7 @@
 [![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge)](mailto:msemm031@uottawa.ca)
 [![mehdisemmar.me](https://img.shields.io/badge/-mehdisemmar.me-000000?style=for-the-badge)](https://mehdisemmar.me)
 
-<img src="https://komarev.com/ghpvc/?username=FtKuBo&label=PROFILE%20VIEWS&color=00FF41&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=FtKuBo&label=PROFILE%20VIEWS&style=flat-square" />
 </div>
 
 ---
@@ -25,15 +25,15 @@
 <table>
 <thead>
 <tr>
-<th width='33%'>🔤 Languages</th>
-<th width='33%'>⚙️ Frameworks & Libraries</th>
-<th width='33%'>🛠️ Tools & Platforms</th>
+<th width='33%'>Languages</th>
+<th width='33%'>Frameworks & Libraries</th>
+<th width='33%'>Tools & Platforms</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td colspan="3" align="center">
-<b>🟢 ACTIVELY USING</b>
+<b>ACTIVELY USING</b>
 </td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@
 </tr>
 <tr>
 <td colspan="3" align="center">
-<b>🟢 PREVIOUSLY USED</b>
+<b>PREVIOUSLY USED</b>
 </td>
 </tr>
 <tr>
@@ -117,9 +117,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FtKuBo&theme=dark&hide_border=true&layout=compact&langs_count=6&title_color=00FF41&text_color=00FF41&bg_color=0D1117&card_width=400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FtKuBo&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=0D1117&card_width=400" />
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=FtKuBo&theme=dark&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&sideNums=00FF41&hide_border=true" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=FtKuBo&theme=dark&background=0D1117&hide_border=true" />
 
 </div>
 
