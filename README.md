@@ -121,7 +121,8 @@
 <br>
 
 <div align="center">
+  
+### ⭐ Thanks for visiting! Feel free to explore my repositories ⭐
 
-```console
-⭐ Thanks for visiting! Feel free to explore my repositories ⭐
-```
+</div>
+
