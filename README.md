@@ -31,35 +31,35 @@
 </tr>
 <tr>
 <td align='center'>
-<img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=java&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-C/C++-000000?style=flat-square&logo=c&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Dart-000000?style=flat-square&logo=dart&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Lua-000000?style=flat-square&logo=lua&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=gnubash&logoColor=00FF41" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px" />
 </td>
 <td align='center'>
-<img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Vue.js-000000?style=flat-square&logo=vue.js&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Flutter-000000?style=flat-square&logo=flutter&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Spring-000000?style=flat-square&logo=spring&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=pytorch&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=00FF41" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50px" />
 </td>
 <td align='center'>
-<img src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-AWS-000000?style=flat-square&logo=amazon-aws&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-GCP-000000?style=flat-square&logo=google-cloud&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Neovim-000000?style=flat-square&logo=neovim&logoColor=00FF41" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="50px" />
 </td>
 </tr>
 <tr>
@@ -69,40 +69,41 @@
 </tr>
 <tr>
 <td align='center'>
-<img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=java&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-C/C++-000000?style=flat-square&logo=c&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Dart-000000?style=flat-square&logo=dart&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Lua-000000?style=flat-square&logo=lua&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=gnubash&logoColor=00FF41" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px" />
 </td>
 <td align='center'>
-<img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Vue.js-000000?style=flat-square&logo=vue.js&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Flutter-000000?style=flat-square&logo=flutter&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Spring-000000?style=flat-square&logo=spring&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=pytorch&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=00FF41" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50px" />
 </td>
 <td align='center'>
-<img src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-AWS-000000?style=flat-square&logo=amazon-aws&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-GCP-000000?style=flat-square&logo=google-cloud&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/-Neovim-000000?style=flat-square&logo=neovim&logoColor=00FF41" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="50px" />
 </td>
 </tr>
 </tbody>
 </table>
 </div>
+
 
 <br>
 
