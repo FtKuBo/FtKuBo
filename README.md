@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhlOHJqaWQ1cml0Yjl4bWF6YjdxMXZ0cGxpcDUwNnFiOHhlZW9vNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="120"/>
+  <img src="./luffy_gif.gif" width="1000"/>
 
 ```console
 ╔════════════════════════════════════════════════╗
