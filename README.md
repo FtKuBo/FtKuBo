@@ -5,14 +5,13 @@
 
 # 👋 Hey, I'm Mehdi  
 
-SWE student @ **uOttawa**  
-Looking for a summer 2026 internship  
-Check out [mehdisemmar.me](https://mehdisemmar.me)  
-Would love to connect on [LinkedIn](https://www.linkedin.com/in/mehdi-semmar-946a1b27b)
+### SWE student @ **uOttawa**  
+### Looking for a summer 2026 internship  
+### Check out [mehdisemmar.me](https://mehdisemmar.me)  
+### Would love to connect on [LinkedIn](https://www.linkedin.com/in/mehdi-semmar-946a1b27b) :)
 
 </div>
 
-<br>
 <br>
 
 # Tech Stack
@@ -108,7 +107,6 @@ Would love to connect on [LinkedIn](https://www.linkedin.com/in/mehdi-semmar-946
 </div>
 
 <br>
-<br>
 
 # System Stats
 
@@ -120,7 +118,6 @@ Would love to connect on [LinkedIn](https://www.linkedin.com/in/mehdi-semmar-946
 
 </div>
 
-<br>
 <br>
 
 <div align="center">
