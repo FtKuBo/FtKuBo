@@ -1,25 +1,21 @@
 <div align="center">
   <img src="./luffy_gif.gif" width="1000" height="400"/>
 
-```console
-╔════════════════════════════════════════════════╗
-║ > whoami                                       ║
-║ Mehdi Semmar | Software Engineer | 0xuOttawa   ║
-║ > status: Looking for a summer 2026 internship ║
-╚════════════════════════════════════════════════╝
-```
+<div align="center">
 
-### Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge)](https://www.linkedin.com/in/mehdi-semmar-946a1b27b)
-[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge)](mailto:msemm031@uottawa.ca)
-[![mehdisemmar.me](https://img.shields.io/badge/-mehdisemmar.me-000000?style=for-the-badge)](https://mehdisemmar.me)
+# 👋 Hey, I'm Mehdi  
 
-<img src="https://komarev.com/ghpvc/?username=FtKuBo&label=PROFILE%20VIEWS&style=flat-square" />
+SWE student @ **uOttawa**  
+Looking for a summer 2026 internship  
+Check out [mehdisemmar.me](https://mehdisemmar.me)  
+Would love to connect on [LinkedIn](https://www.linkedin.com/in/mehdi-semmar-946a1b27b)
+
 </div>
 
----
+<br>
+<br>
 
-## Tech Stack
+# Tech Stack
 
 <div align="center">
 <table>
@@ -111,24 +107,24 @@
 </table>
 </div>
 
----
+<br>
+<br>
 
-## System Stats
+# System Stats
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FtKuBo&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=0D1117&card_width=400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FtKuBo&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=0D1117&card_width=350" />
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=FtKuBo&theme=dark&background=0D1117&hide_border=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=FtKuBo&theme=dark&background=0D1117&hide_border=true" />
 
 </div>
 
----
+<br>
+<br>
 
 <div align="center">
 
 ```console
 ⭐ Thanks for visiting! Feel free to explore my repositories ⭐
-```
 
-</div>
