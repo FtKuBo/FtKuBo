@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./luffy_gif.gif" width="1000" height="400"/>
+  <img src="assets/luffy_gif.gif" width="1000" height="400"/>
 
 <div align="center">
 
@@ -59,12 +59,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50px" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/Tmux-1BB91F?logo=tmux&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/PubSub%2B-00C895?logo=solace&logoColor=white&style=flat-square" />
-
+<img src="./assets/nasm.png" width="50px" />
+<img src="./assets/4js.png" width="50px" />
+<img src="./assets/4js.png" width="50px" />
+<img src="./assets/4js.png" width="50px" />
+<img src="./assets/4js.png" width="50px" />
+<img src="./assets/4js.png" width="50px" />
+<img src="./assets/4js.png" width="50px" />
 </td>
 <td align='center'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" />
