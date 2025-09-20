@@ -108,7 +108,7 @@
 <br>
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto;">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=FtKuBo&theme=dark&background=0D1117&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=FtKuBo&theme=dark&background=0D1117&hide_border=true" />
 </div>
 
 
