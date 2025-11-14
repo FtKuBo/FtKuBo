@@ -6,7 +6,7 @@
 # 👋 Hey, I'm Mehdi  
 
 ### SWE student @ **uOttawa**  
-### Looking for a summer 2026 internship  
+### Looking for learning experiences  
 ### Check out [mehdisemmar.me](https://mehdisemmar.me)  
 ### Would love to connect on [LinkedIn](https://www.linkedin.com/in/mehdi-semmar-946a1b27b) :)
 
